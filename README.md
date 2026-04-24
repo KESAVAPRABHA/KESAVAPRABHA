@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kesava Prabha L
 
 ## 🚀 About Me
-I’m a passionate Computer Science and Engineering student at Kongu Engineering College, currently pursuing an honors degree in Data Science. With a CGPA of 9.3 (up to the 5th semester), I’m driven by curiosity and a strong desire to build innovative, real-world solutions.Known for my attention to detail, strong problem-solving skills, and collaborative spirit, I thrive in dynamic environments where I can learn, contribute, and lead. 
+I’m a passionate Computer Science and Engineering student at Kongu Engineering College, currently pursuing an honors degree in Data Science. With a CGPA of 9.23, I’m driven by curiosity and a strong desire to build innovative, real-world solutions.Known for my attention to detail, strong problem-solving skills, and collaborative spirit, I thrive in dynamic environments where I can learn, contribute, and lead. 
 
 ---
 
@@ -9,7 +9,7 @@ I’m a passionate Computer Science and Engineering student at Kongu Engineering
 
 - **Languages:** Python, Java, C, JavaScript
 - **Web & Tools:** HTML, CSS, Git, MongoDB, Node.js, React
-- **Others:** SQL, Data Analytics, Excel
+- **Others:** SQL, Data Analytics, Excel, PowerBI
 
 ---
 
